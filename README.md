@@ -1,4 +1,4 @@
-# 🚨 Hate Speech Detection System (Machine Learning)
+# 🚨 Hate Speech Detection System 
 
 A Machine Learning + NLP based **Hate Speech Detection System** that classifies text into:
 - **Hate Speech**
