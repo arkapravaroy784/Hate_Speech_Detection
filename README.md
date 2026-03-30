@@ -99,6 +99,6 @@ Model performance is measured using:
 
 ---
 
-## 👤 Author
+##  Author
 
 Arkaprava Roy
