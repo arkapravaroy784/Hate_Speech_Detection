@@ -20,7 +20,7 @@ This project was developed and tested in **Jupyter Notebook**, focusing on build
 
 ---
 
-## 🧠 Dataset
+## Dataset
 
 The dataset contains tweets labeled into 3 classes:
 
