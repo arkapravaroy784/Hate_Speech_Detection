@@ -36,7 +36,7 @@ The dataset contains tweets labeled into 3 classes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Jupyter Notebook**
@@ -48,7 +48,7 @@ The dataset contains tweets labeled into 3 classes:
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### 1) Data Cleaning (Text Preprocessing)
 The raw tweets are cleaned using:
