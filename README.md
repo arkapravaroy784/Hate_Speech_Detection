@@ -9,7 +9,7 @@ This project was developed and tested in **Jupyter Notebook**, focusing on build
 
 ---
 
-## ✅ Features
+## Features
 
 - Load and preprocess hate speech dataset
 - Clean raw text (tweets) using NLP techniques
