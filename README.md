@@ -78,7 +78,7 @@ Model performance is measured using:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 ✅ Overall accuracy achieved: **~92%**  
 ✅ Macro Average F1-score: **~0.77**
