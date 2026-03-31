@@ -90,7 +90,7 @@ Model performance is measured using:
 
 ---
 
-## 📷 Visualizations Included
+##  Visualizations Included
 
 - Training vs Validation Loss Curve  
 - Training vs Validation Accuracy Curve  
