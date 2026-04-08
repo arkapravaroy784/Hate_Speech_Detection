@@ -80,8 +80,8 @@ Model performance is measured using:
 
 ## Results Summary
 
- I.Overall accuracy achieved: **~92%**  
- II.Macro Average F1-score: **~0.77**
+ I. Overall accuracy achieved: **~92%**  
+ II. Macro Average F1-score: **~0.77**
 
 📌 Class-wise performance (example):
 - **Offensive** class performs very strongly
