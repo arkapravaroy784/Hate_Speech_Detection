@@ -83,7 +83,7 @@ Model performance is measured using:
  I. Overall accuracy achieved: **~92%**  
  II. Macro Average F1-score: **~0.77**
 
-📌Class-wise performance:
+Class-wise performance:
 - **Offensive** class performs very strongly
 - **Normal** class is predicted reliably
 - **Hate speech** class is harder due to dataset imbalance and similarity with offensive language
