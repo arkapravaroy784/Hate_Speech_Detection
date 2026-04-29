@@ -63,11 +63,13 @@ The raw tweets are cleaned using:
 - **TF-IDF Vectorization**
 - N-grams (unigram + bigram) for better phrase understanding
 
+
 ### 3) Model Training
 Multiple models can be used (example):
 - Logistic Regression
 - SVM (LinearSVC)
 - Naive Bayes
+
 
 ### 4) Model Evaluation
 Model performance is measured using:
